@@ -1,0 +1,9 @@
+file 'bg_cta.png'
+duration 5
+file 'bg_highlights.png'
+duration 5
+file 'bg_quote.png'
+duration 5
+file 'bg_title.png'
+duration 5
+file 'bg_title.png'

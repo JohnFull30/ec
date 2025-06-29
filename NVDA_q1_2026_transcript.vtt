@@ -1,0 +1,2153 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.960
+ Good afternoon, my name is Sarah and I will be your conference operator today.
+
+00:00:05.960 --> 00:00:12.160
+ At this time, I would like to welcome everyone to NVIDIA's first quarter fiscal 2026 financial
+
+00:00:12.160 --> 00:00:14.300
+ results conference call.
+
+00:00:14.300 --> 00:00:18.280
+ All lines have been placed on mute to prevent any background noise.
+
+00:00:18.280 --> 00:00:21.760
+ After the speaker's remarks, there will be a question and answer session.
+
+00:00:21.760 --> 00:00:26.960
+ If you would like to ask a question during this time, simply press star one on your telephone
+
+00:00:26.960 --> 00:00:27.960
+ keypad.
+
+00:00:27.960 --> 00:00:31.900
+ If you would like to withdraw your question, please press star one again.
+
+00:00:31.900 --> 00:00:32.900
+ Thank you.
+
+00:00:32.900 --> 00:00:37.320
+ So Shia-Hari, you may begin your conference.
+
+00:00:37.320 --> 00:00:38.320
+ Thank you.
+
+00:00:38.320 --> 00:00:42.480
+ Good afternoon, everyone, and welcome to NVIDIA's conference call for the first quarter of
+
+00:00:42.480 --> 00:00:44.960
+ fiscal 2026.
+
+00:00:44.960 --> 00:00:50.040
+ With me today from NVIDIA are Jensen Wong, president and chief executive officer, and
+
+00:00:50.040 --> 00:00:54.560
+ Collette Cress, executive vice president and chief financial officer.
+
+00:00:54.560 --> 00:00:58.980
+ I'd like to remind you that our call is being webcast live on NVIDIA's investor relations
+
+00:00:58.980 --> 00:01:00.480
+ website.
+
+00:01:00.480 --> 00:01:04.600
+ The webcasts will be available for replay until the conference call to discuss our financial
+
+00:01:04.600 --> 00:01:09.080
+ results for the second quarter of fiscal 2026.
+
+00:01:09.080 --> 00:01:12.120
+ The content of today's call is NVIDIA's property.
+
+00:01:12.120 --> 00:01:17.120
+ It can't be reproduced or transcribed without our prior written consent.
+
+00:01:17.120 --> 00:01:22.280
+ During this call, we may make forward looking statements based on current expectations.
+
+00:01:22.280 --> 00:01:27.080
+ These are subject to a number of significant risks and uncertainties, and our actual results
+
+00:01:27.080 --> 00:01:29.300
+ may differ materially.
+
+00:01:29.300 --> 00:01:33.960
+ For a discussion of factors that could affect our future financial results in business,
+
+00:01:33.960 --> 00:01:38.720
+ please refer to the disclosure in today's earnings release, our most recent forms 10K
+
+00:01:38.720 --> 00:01:44.020
+ and 10Q, and the reports that we may file on Formate K with the Securities and Exchange
+
+00:01:44.020 --> 00:01:45.800
+ Commission.
+
+00:01:45.800 --> 00:01:51.320
+ All our statements are made as of today, May 28th, 2025, based on information currently
+
+00:01:51.320 --> 00:01:53.680
+ available to us.
+
+00:01:53.680 --> 00:01:58.920
+ Except as required by law, we assume no obligation to update any such statements.
+
+00:01:58.920 --> 00:02:02.520
+ During this call, we will discuss non-GAP financial measures.
+
+00:02:02.520 --> 00:02:07.160
+ You can find a reconciliation of these non-GAP financial measures to GAP financial measures
+
+00:02:07.160 --> 00:02:10.980
+ in our CFO commentary, which is posted on our website.
+
+00:02:10.980 --> 00:02:14.200
+ With that, let me turn the call over to Colette.
+
+00:02:14.200 --> 00:02:15.200
+ Thank you, Toshio.
+
+00:02:15.200 --> 00:02:23.640
+ We delivered another strong quarter with revenue of $44 billion, up 69% year over year, exceeding
+
+00:02:23.640 --> 00:02:28.880
+ our outlook in what proved to be a challenging operating environment.
+
+00:02:28.880 --> 00:02:33.480
+ Data center revenue of $39 billion grew 73% year on year.
+
+00:02:33.480 --> 00:02:39.400
+ AR workloads have transitioned strongly to inference, and AI factory buildouts are driving
+
+00:02:39.400 --> 00:02:42.000
+ significant revenue.
+
+00:02:42.000 --> 00:02:46.280
+ Our customers' commitments are firm.
+
+00:02:46.280 --> 00:02:52.320
+ On April 9th, the U.S. government issued new export controls on H20.
+
+00:02:52.320 --> 00:02:56.660
+ Our data center GPU designed specifically for the China market.
+
+00:02:56.660 --> 00:03:01.600
+ We sold H20 with the approval of the previous administration.
+
+00:03:01.600 --> 00:03:06.560
+ Although our H20 has been in the market for over a year and does not have a market outside
+
+00:03:06.560 --> 00:03:13.400
+ of China, the new export controls on H20 did not provide a grace period to allow us to
+
+00:03:13.400 --> 00:03:15.920
+ sell through our inventory.
+
+00:03:15.920 --> 00:03:24.680
+ In Q1, we recognized $4.6 billion in H20 revenue, which occurred prior to April 9th,
+
+00:03:24.680 --> 00:03:32.480
+ but also recognized a $4.5 billion charge as we wrote down inventory and purchase obligations
+
+00:03:32.480 --> 00:03:37.160
+ tied to orders we had received prior to April 9th.
+
+00:03:37.160 --> 00:03:44.640
+ We were unable to ship $2.5 billion in H20 revenue in the first quarter due to the new
+
+00:03:44.640 --> 00:03:46.800
+ export controls.
+
+00:03:46.800 --> 00:03:51.840
+ The $4.5 billion charge was less than what we initially anticipated as we were able to
+
+00:03:51.840 --> 00:03:54.880
+ reuse certain materials.
+
+00:03:54.880 --> 00:04:00.880
+ We are still evaluating our limited options to supply data center compute products compliant
+
+00:04:00.880 --> 00:04:05.040
+ with the U.S. government's revised export control rules.
+
+00:04:05.040 --> 00:04:10.880
+ Losing access to the China AI accelerator market, which we believe will grow to nearly
+
+00:04:10.880 --> 00:04:17.720
+ $50 billion, would have a material adverse impact on our business going forward and benefit
+
+00:04:17.720 --> 00:04:23.080
+ our foreign competitors in China and worldwide.
+
+00:04:23.080 --> 00:04:29.640
+ Our Blackwell rail, the fastest in our company's history, drove a 73% year on year increase
+
+00:04:29.640 --> 00:04:31.280
+ in data center revenue.
+
+00:04:31.280 --> 00:04:37.200
+ Blackwell contributed nearly 70% of data center compute revenue in the quarter with a transition
+
+00:04:37.200 --> 00:04:40.880
+ from hopper nearly complete.
+
+00:04:40.880 --> 00:04:47.840
+ The introduction of GB200 NBL was a fundamental architectural change to enable data center
+
+00:04:47.840 --> 00:04:53.400
+ scale workloads and to achieve the lowest cost per inference token.
+
+00:04:53.400 --> 00:04:59.720
+ While these systems are complex to build, we have seen a significant improvement in manufacturing
+
+00:04:59.720 --> 00:05:06.040
+ yields and rack shipments are moving to strong rates to end customers.
+
+00:05:06.040 --> 00:05:12.280
+ GB200 NBL racks are now generally available for modern builders, enterprises, and sovereign
+
+00:05:12.280 --> 00:05:16.080
+ customers to develop and deploy AI.
+
+00:05:16.080 --> 00:05:26.400
+ On average, major hyperscalers are each deploying nearly 1,000 NBL 72 racks or 72,000 Blackwell
+
+00:05:26.400 --> 00:05:33.160
+ GPUs per week and are on track to further ramp output this quarter.
+
+00:05:33.160 --> 00:05:38.600
+ Microsoft, for example, has already deployed tens of thousands of Blackwell GPUs and is
+
+00:05:38.600 --> 00:05:47.680
+ expected to ramp to hundreds of thousands of GB200s with open AI as one of its key customers.
+
+00:05:47.680 --> 00:05:53.440
+ Key learnings from the GB200 ramp will allow for a smooth transition to the next phase
+
+00:05:53.440 --> 00:05:57.520
+ of our product roadmap, Blackwell Ultra.
+
+00:05:57.520 --> 00:06:05.360
+ Sampling of GB300 systems began earlier this month at the major CSPs and we expect production
+
+00:06:05.360 --> 00:06:10.280
+ shipments to commerce later this quarter.
+
+00:06:10.280 --> 00:06:17.560
+ GB300 will leverage the same architecture, same physical footprint, and the same electrical
+
+00:06:17.560 --> 00:06:21.480
+ and mechanical specifications as GB200.
+
+00:06:21.480 --> 00:06:29.720
+ The GB300 drop in design will allow CSPs to seamlessly transition their systems and manufacturing
+
+00:06:29.720 --> 00:06:34.320
+ used for GB200 while maintaining high yields.
+
+00:06:34.320 --> 00:06:43.800
+ GB300 GPUs with 50% more HBM will deliver another 50% increase in dense FP4 inference compute
+
+00:06:43.800 --> 00:06:47.320
+ performance compared to the B200.
+
+00:06:47.320 --> 00:06:53.080
+ We remain committed to our annual product cadence, with our roadmap extending through
+
+00:06:53.080 --> 00:07:01.480
+ 2028 tightly aligned with the multiple year planning cycles of our customers.
+
+00:07:01.480 --> 00:07:05.800
+ We are witnessing a sharp jump in inference demand.
+
+00:07:05.800 --> 00:07:12.320
+ Open AI, Microsoft, and Google are seeing a step-function leap in token generation.
+
+00:07:12.320 --> 00:07:20.560
+ Microsoft processed over 100 trillion tokens in Q1, a five-fold increase on a year-over-year
+
+00:07:20.560 --> 00:07:21.880
+ basis.
+
+00:07:21.880 --> 00:07:27.720
+ This exponential growth in Azure Open AI is representative of strong demand for Azure
+
+00:07:27.720 --> 00:07:34.320
+ AI Foundry as well as other AI services across Microsoft's platform.
+
+00:07:34.320 --> 00:07:41.160
+ Inference serving startups are now serving models using B200, tripling their token generation
+
+00:07:41.160 --> 00:07:47.960
+ made and corresponding revenues for high value reasoning models such as DeepSeek R1 as reported
+
+00:07:47.960 --> 00:07:52.400
+ by artificial analysis.
+
+00:07:52.400 --> 00:08:02.160
+ NVIDIA Dynamo on Blackwell NVL-72 turbocharges AI inference throughput by 30X for the new
+
+00:08:02.160 --> 00:08:06.080
+ reasoning models sweeping the industry.
+
+00:08:06.080 --> 00:08:12.720
+ Developer engagements increased with adoption ranging from LLM providers such as perplexity
+
+00:08:12.720 --> 00:08:20.200
+ to financial services institutions such as Capital One who reduced agentic chat box latency
+
+00:08:20.200 --> 00:08:23.320
+ by 5X with Dynamo.
+
+00:08:23.320 --> 00:08:29.600
+ In the latest ELMOL Perf inference results, we submitted our first results using GB200
+
+00:08:29.600 --> 00:08:39.320
+ NVL-72 delivering up to 30X higher inference throughput compared to our 8GPU H200 submission
+
+00:08:39.320 --> 00:08:43.560
+ on the challenging LLMA 3.1 benchmark.
+
+00:08:43.560 --> 00:08:49.520
+ This feat was achieved through a combination of tripling the performance per GPU as well
+
+00:08:49.520 --> 00:08:56.040
+ as 9X more GPUs all connected on a single NVLink domain.
+
+00:08:56.040 --> 00:09:01.680
+ And while Blackwell is still early in its life cycle, software optimizations have already
+
+00:09:01.680 --> 00:09:07.600
+ improved its performance by 1.5X in the last month alone.
+
+00:09:07.600 --> 00:09:12.440
+ We expect to continue improving the performance of Blackwell through its operational life as
+
+00:09:12.440 --> 00:09:15.280
+ we have done with Hopper and Amper.
+
+00:09:15.280 --> 00:09:20.660
+ For example, we increased the inference performance of Hopper by 4X over 2 years.
+
+00:09:20.660 --> 00:09:28.720
+ This is the benefit of NVIDIA's programmable CUDA architecture and rich ecosystem.
+
+00:09:28.720 --> 00:09:35.440
+ The pace and scale of AI factory deployments are accelerating with nearly 100 NVIDIA-powered
+
+00:09:35.440 --> 00:09:38.160
+ AI factories in flight this quarter.
+
+00:09:38.160 --> 00:09:44.880
+ A two-fold increase year-to-year with the average number of GPUs powering each factory
+
+00:09:44.880 --> 00:09:48.080
+ also doubling in the same period.
+
+00:09:48.080 --> 00:09:53.000
+ And more AI factory projects are starting across industries and geographies.
+
+00:09:53.000 --> 00:09:58.800
+ NVIDIA's full stack architecture is underpinning AI factory deployments as industry leaders
+
+00:09:58.800 --> 00:10:07.080
+ like AT&T, BYD, Capital One, Foxconn, MediaTek, and Telenoor are strategically vital sovereign
+
+00:10:07.080 --> 00:10:14.400
+ clouds like those recently announced in Saudi Arabia, Taiwan, and the UAE.
+
+00:10:14.400 --> 00:10:21.360
+ We have a line of sight to projects requiring tens of gigawatts of NVIDIA AI infrastructure
+
+00:10:21.360 --> 00:10:24.440
+ in the not too distant future.
+
+00:10:24.440 --> 00:10:33.360
+ The transition from generative to agentic AI, AI capable of perceiving, reasoning, planning,
+
+00:10:33.360 --> 00:10:39.840
+ and acting will transform every industry, every company and country.
+
+00:10:39.840 --> 00:10:46.780
+ We envision AI agents as a new digital workforce capable of handling tasks ranging from customer
+
+00:10:46.780 --> 00:10:51.680
+ service to complex decision-making processes.
+
+00:10:51.680 --> 00:10:58.280
+ We introduced the Lama Nemotron family of open reasoning models designed to supercharge
+
+00:10:58.280 --> 00:11:04.200
+ identical AI platforms for enterprises. Built on the Lama architecture, these models are
+
+00:11:04.200 --> 00:11:11.800
+ available as NIMS or NVIDIA inference microservices with multiple sizes to meet diverse deployment
+
+00:11:11.800 --> 00:11:13.080
+ needs.
+
+00:11:13.080 --> 00:11:19.840
+ Our post-training enhancements have yield a 20% accuracy boost and a 5x increase in
+
+00:11:19.840 --> 00:11:21.600
+ inference speed.
+
+00:11:21.600 --> 00:11:27.880
+ Leading platform companies including Accenture, Cadence, Deloitte, and Microsoft are transforming
+
+00:11:27.880 --> 00:11:30.640
+ work with our reasoning models.
+
+00:11:30.640 --> 00:11:36.440
+ NVIDIA, NIMO, microservices are generally available across industries and are being
+
+00:11:36.440 --> 00:11:43.120
+ leveraged by leading enterprises to build, optimize, and scale AI applications.
+
+00:11:43.120 --> 00:11:50.240
+ With NIMO, Cisco increased model accuracy by 40% and improved response time by 10x in
+
+00:11:50.240 --> 00:11:52.240
+ its code assistant.
+
+00:11:52.240 --> 00:11:58.360
+ NASDAQ realized a 30% improvement in accuracy and response time in its AI platform's search
+
+00:11:58.360 --> 00:12:05.520
+ capabilities and Shell's custom LLM achieved a 30% increase in accuracy when trained with
+
+00:12:05.520 --> 00:12:13.180
+ NVIDIA, NIMO, NIMO's parallelism techniques accelerated model training time by 20% when
+
+00:12:13.180 --> 00:12:16.180
+ compared to other frameworks.
+
+00:12:16.180 --> 00:12:21.920
+ We also announced a partnership with YumBrands, the world's largest restaurant company to
+
+00:12:21.920 --> 00:12:29.320
+ bring NVIDIA AI to 500 of its restaurants this year and expanding to 61,000 restaurants
+
+00:12:29.320 --> 00:12:36.560
+ over time to streamline, order-taking, optimize operations, and enhance service across its
+
+00:12:36.560 --> 00:12:38.400
+ restaurants.
+
+00:12:38.400 --> 00:12:44.440
+ For AI-powered cybersecurity-leading companies like Checkpoint, CloudStrike, and PaloTent
+
+00:12:44.440 --> 00:12:50.700
+ Networks are using NVIDIA's AI security and software stack to build optimized and secure
+
+00:12:50.700 --> 00:12:59.260
+ agentic workflows with CloudStrike realizing 2x faster detection triage with 50% less compute
+
+00:12:59.260 --> 00:13:01.260
+ cost.
+
+00:13:01.260 --> 00:13:08.460
+ Moving to networking, sequential growth in networking resumed in Q1 with revenue up 64% quarter
+
+00:13:08.460 --> 00:13:11.100
+ over quarter to five billion.
+
+00:13:11.100 --> 00:13:17.720
+ Our customers continue to leverage our platform to efficiently scale up and scale out AI factory
+
+00:13:17.720 --> 00:13:19.440
+ workloads.
+
+00:13:19.440 --> 00:13:23.620
+ We created the world's fastest switch, NVLink.
+
+00:13:23.620 --> 00:13:31.600
+ For scale up, our NVLink compute fabric in its fifth generation offers 14x the bandwidth
+
+00:13:31.600 --> 00:13:33.600
+ of PCIe Gen 5.
+
+00:13:33.600 --> 00:13:42.020
+ NVLink 72 carries 130 terabytes per second of bandwidth in a single rack, equivalent to
+
+00:13:42.020 --> 00:13:46.340
+ the entirety of the world's peak internet traffic.
+
+00:13:46.340 --> 00:13:52.820
+ NVLink is a new growth vector and is off to a great start, with Q1 shipments exceeding
+
+00:13:52.820 --> 00:13:55.180
+ a billion dollars.
+
+00:13:55.180 --> 00:13:59.820
+ At Computex, we announced NVLink Fusion.
+
+00:13:59.820 --> 00:14:06.480
+ Scale customers can now build semi-custom CCUs and accelerators that connect directly
+
+00:14:06.480 --> 00:14:09.280
+ to the NVIDIA platform with NVLink.
+
+00:14:09.280 --> 00:14:15.520
+ We are now enabling key partners, including ASIC providers such as MediaTek, Marvell,
+
+00:14:15.520 --> 00:14:23.120
+ Alchip Technologies, and Astero Labs, as well as CPU suppliers such as Fuzitsu and Qualcomm
+
+00:14:23.120 --> 00:14:29.320
+ to leverage NVLink Fusion to connect our respective ecosystems.
+
+00:14:29.320 --> 00:14:36.140
+ For scale out, our enhanced Ethernet offerings deliver the highest throughput, low latency
+
+00:14:36.140 --> 00:14:38.340
+ networking for AI.
+
+00:14:38.340 --> 00:14:44.940
+ Spectrum X post a strong sequential and year-on-year growth and is now annualizing over 8 billion
+
+00:14:44.940 --> 00:14:46.460
+ in revenue.
+
+00:14:46.460 --> 00:14:52.220
+ Adoption is widespread across major CSPs and consumer internet companies, including Core
+
+00:14:52.220 --> 00:14:57.100
+ We, Microsoft Azure, Oracle Cloud, and XAI.
+
+00:14:57.100 --> 00:15:04.800
+ This quarter, we added Google Cloud and Meta to the growing list of Spectrum X customers.
+
+00:15:04.800 --> 00:15:11.880
+ We introduced Spectrum X and Quantum X, Silicon Photonics switches featuring the world's most
+
+00:15:11.880 --> 00:15:14.400
+ advanced co-package optics.
+
+00:15:14.400 --> 00:15:20.880
+ These platforms will enable next-level AI factory scaling to millions of GPUs through
+
+00:15:20.880 --> 00:15:29.580
+ the increasingly power efficiency by 3.5x and network resiliency by 10x while accelerating
+
+00:15:29.580 --> 00:15:34.660
+ customer time to market by 1.3x.
+
+00:15:34.660 --> 00:15:40.860
+ Transitioning to a quick summary of our revenue by geography, China as a percentage of our
+
+00:15:40.860 --> 00:15:45.900
+ data center revenue was slightly below our expectations and down sequentially due to
+
+00:15:45.900 --> 00:15:49.840
+ H20 export licensing controls.
+
+00:15:49.840 --> 00:15:55.460
+ For Q2, we expect a meaningful decrease in China data center revenue.
+
+00:15:55.460 --> 00:16:02.700
+ As a reminder, while Singapore represented nearly 20% of our Q1 build revenue, as many
+
+00:16:02.700 --> 00:16:09.840
+ of our large customers use Singapore for centralized invoicing, our products are almost always
+
+00:16:09.840 --> 00:16:12.020
+ built elsewhere.
+
+00:16:12.020 --> 00:16:20.700
+ Note that over 99% of H100, H200, and Blackwell data center compute revenue built to Singapore
+
+00:16:20.700 --> 00:16:25.220
+ was for orders from US-based customers.
+
+00:16:25.220 --> 00:16:28.660
+ Moving to gaming and AI PCs.
+
+00:16:28.660 --> 00:16:36.540
+ Gaming revenue was a record 3.8 billion, increasing 48% sequentially and 42% year-on-year.
+
+00:16:36.540 --> 00:16:42.080
+ Long adoption by gamers, creatives, and AI enthusiasts have made Blackwell our fastest
+
+00:16:42.080 --> 00:16:43.640
+ ramp ever.
+
+00:16:43.640 --> 00:16:49.520
+ Against a backdrop of robust demand, we greatly improved our supply and availability in Q1
+
+00:16:49.520 --> 00:16:52.460
+ and expect to continue these efforts in Q2.
+
+00:16:52.460 --> 00:16:57.840
+ AI is transforming PC and creator and gamers.
+
+00:16:57.840 --> 00:17:05.600
+ With a 100 million user installed base, GeForce represents the largest footprint for PC developers.
+
+00:17:05.600 --> 00:17:12.100
+ This quarter, we added to our AI PC laptop offerings, including models capable of running
+
+00:17:12.100 --> 00:17:15.920
+ Microsoft's co-pilot plus.
+
+00:17:15.920 --> 00:17:22.060
+ This past quarter, we brought Blackwell architecture to mainstream gaming with its launch of GeForce
+
+00:17:22.060 --> 00:17:30.100
+ RTX 5060 and 5060 Ti, starting at just $299.
+
+00:17:30.100 --> 00:17:38.880
+ The RTX 5060 also debuted in laptops starting at $1,099, these systems that double the frame
+
+00:17:38.880 --> 00:17:42.120
+ rate and slash latency.
+
+00:17:42.120 --> 00:17:51.200
+ These GeForce RTX 5060 and 5060 Ti desktop GPUs and laptops are now available.
+
+00:17:51.200 --> 00:17:57.840
+ In console gaming, the recently unveiled Nintendo Switch 2 leverages Nvidia's neural rendering
+
+00:17:57.840 --> 00:18:04.900
+ and AI technologies, including next-generation custom RTX GPUs with the LSS technology to
+
+00:18:04.900 --> 00:18:11.340
+ deliver a giant leap in gaming performance to millions of players worldwide.
+
+00:18:11.340 --> 00:18:16.900
+ Nintendo has shipped over 150 million Switch consoles to date, making it one of the most
+
+00:18:16.900 --> 00:18:21.180
+ successful gaming systems in history.
+
+00:18:21.180 --> 00:18:27.380
+ Moving to pro-visualization, revenue of 509 million was flat sequentially in up 19 percent
+
+00:18:27.380 --> 00:18:28.800
+ year on year.
+
+00:18:28.800 --> 00:18:35.720
+ Tariff-related uncertainty temporarily impacted Q1 systems, and demand for our AI workstations
+
+00:18:35.720 --> 00:18:41.600
+ is strong and we expect sequential revenue growth to resume in Q2.
+
+00:18:41.600 --> 00:18:47.480
+ Nvidia DGX Spark and Station revolutionized personal computing by putting the power of
+
+00:18:47.480 --> 00:18:50.600
+ an AI supercomputer in a desktop form factor.
+
+00:18:50.600 --> 00:18:57.360
+ DGX Spark delivers up to one petaflop of AI compute while DGX Station offers an incredible
+
+00:18:57.360 --> 00:19:03.420
+ 20 petaflops and is powered by the GB300 SuperChip.
+
+00:19:03.420 --> 00:19:11.140
+ DGX Spark will be available in calendar Q3 and DGX Station later this year.
+
+00:19:11.140 --> 00:19:17.380
+ We have deepened Omniverse's integration and adoption into some of the world's leading
+
+00:19:17.380 --> 00:19:23.540
+ software platforms including Databricks, SAP, and Snyder Electric.
+
+00:19:23.540 --> 00:19:31.360
+ New Omniverse blueprints such as MEGA for at-scale robotic fleet management are being leveraged
+
+00:19:31.360 --> 00:19:38.840
+ in Keon Group, Pegatron, Accenture, and other leading companies to enhance industrial operations.
+
+00:19:38.840 --> 00:19:45.040
+ At Confitex, we showcased Omniverse's great traction with technology manufacturing leaders
+
+00:19:45.040 --> 00:19:49.880
+ including TSMC, Quanta, Foxconn, Pegatron.
+
+00:19:49.880 --> 00:19:55.220
+ Using Omniverse, TSMC saves months in work by designing fabs virtually.
+
+00:19:55.220 --> 00:20:03.340
+ Foxconn accelerates thermal simulations by 150x and Pegatron reduced assembly line defects
+
+00:20:03.340 --> 00:20:06.780
+ rates by 67%.
+
+00:20:06.780 --> 00:20:14.180
+ Lastly with our automotive group, revenue was 567 million down 1% sequentially but up 72%
+
+00:20:14.180 --> 00:20:15.180
+ year on year.
+
+00:20:15.180 --> 00:20:19.220
+ Year on year growth was driven by the ramp of self-driving across a number of customers
+
+00:20:19.220 --> 00:20:23.000
+ and robust end demand for NEVs.
+
+00:20:23.000 --> 00:20:28.920
+ We are partnering with GM to build the next gen vehicles, factories, and robots using
+
+00:20:28.920 --> 00:20:33.040
+ NVIDIA AI, simulation, and accelerated computing.
+
+00:20:33.040 --> 00:20:37.600
+ And we are now in production with our full stack solution for Mercedes-Benz starting
+
+00:20:37.600 --> 00:20:42.160
+ with the new CLA, hitting roads in the next few months.
+
+00:20:42.160 --> 00:20:48.080
+ We announced Isaac, Group, and One, the world's first open fully customizable foundation model
+
+00:20:48.080 --> 00:20:55.180
+ for humanoid robots enabling generalized reasoning and skill development.
+
+00:20:55.180 --> 00:21:00.700
+ We also launched new open NVIDIA Cosmo World Foundation models.
+
+00:21:00.700 --> 00:21:09.340
+ Leading companies include One X, Agility Robots, Robotics, Figure AI, Uber, and Wabby.
+
+00:21:09.340 --> 00:21:15.900
+ We've begun integrating Cosmos into their operations for synthetic data generation while
+
+00:21:15.900 --> 00:21:22.760
+ Agility Robotics, Boston Dynamics, and XPEM Robotics are harnessing Isaac simulation to
+
+00:21:22.760 --> 00:21:25.400
+ advance their humanoid efforts.
+
+00:21:25.400 --> 00:21:32.280
+ GE Healthcare is using the new NVIDIA Isaac platform for healthcare simulation built on
+
+00:21:32.280 --> 00:21:38.040
+ NVIDIA Omniverse and using NVIDIA Cosmos, the platform speeds development of robotic
+
+00:21:38.040 --> 00:21:41.440
+ imaging and surgery systems.
+
+00:21:41.440 --> 00:21:44.140
+ The era of robotics is here.
+
+00:21:44.140 --> 00:21:49.620
+ Billions of robots, hundreds of millions of autonomous vehicles, and hundreds of thousands
+
+00:21:49.620 --> 00:21:53.700
+ of robotic factories and warehouses will be developed.
+
+00:21:53.700 --> 00:22:01.620
+ All right, moving to the rest of the P&L, gap-gross margins and non-gap-gross margins were 60.5%
+
+00:22:01.620 --> 00:22:04.180
+ and 61% respectively.
+
+00:22:04.180 --> 00:22:11.420
+ Excluding the 4.5 billion charge, Q1 non-gap-gross margins would have been 71.3%.
+
+00:22:11.420 --> 00:22:16.200
+ Slightly above our outlook at the beginning of the quarter.
+
+00:22:16.200 --> 00:22:21.440
+ Sequentially, gap operating expenses were up 7%, and non-gap operating expenses were
+
+00:22:21.440 --> 00:22:26.360
+ up 6%, reflecting higher compensation and employee growth.
+
+00:22:26.360 --> 00:22:32.000
+ Our investments include expanding our infrastructure capabilities and AI solutions, and we plan
+
+00:22:32.000 --> 00:22:35.480
+ to grow these investments throughout the fiscal year.
+
+00:22:35.480 --> 00:22:42.140
+ In Q1, we returned a record 14.3 billion to shareholders in the form of share repurchases
+
+00:22:42.140 --> 00:22:43.780
+ and cash dividends.
+
+00:22:43.780 --> 00:22:51.060
+ Our capital return program continues to be a key element of our capital allocation strategy.
+
+00:22:51.060 --> 00:22:54.740
+ Let me turn to the outlook for the second quarter.
+
+00:22:54.740 --> 00:23:00.020
+ Total revenue is expected to be 45 billion, plus or minus 2%.
+
+00:23:00.020 --> 00:23:04.340
+ We expect modest sequential growth across all of our platforms.
+
+00:23:04.340 --> 00:23:10.280
+ In Datacenter, we anticipate the continued ramp of Blackwell to be partially offset by
+
+00:23:10.280 --> 00:23:12.680
+ a decline in China revenue.
+
+00:23:12.680 --> 00:23:21.560
+ Note our outlook reflects a loss in H20 revenue of approximately $8 billion for the second
+
+00:23:21.560 --> 00:23:23.800
+ quarter.
+
+00:23:23.800 --> 00:23:32.320
+ Gap and non-gap-gross margins are expected to be 71.8% and 72% respectively, plus or
+
+00:23:32.320 --> 00:23:33.960
+ minus 50 basis points.
+
+00:23:33.960 --> 00:23:39.300
+ We expect better Blackwell profitability to drive modest sequential improvement in gross
+
+00:23:39.300 --> 00:23:40.300
+ margins.
+
+00:23:40.300 --> 00:23:45.980
+ We are continuing to work towards achieving gross margins in the mid-70s range late this
+
+00:23:45.980 --> 00:23:47.740
+ year.
+
+00:23:47.740 --> 00:23:54.740
+ Gap and non-gap operating expenses are expected to be approximately 5.7 billion and 4 billion,
+
+00:23:54.740 --> 00:24:01.620
+ respectively, and we continue to expect full-year fiscal year 26 operating expense growth to
+
+00:24:01.620 --> 00:24:05.000
+ be in the mid-30% range.
+
+00:24:05.000 --> 00:24:09.660
+ Gap and non-gap other income and expenses are expected to be an income of approximately
+
+00:24:09.660 --> 00:24:17.920
+ 450 million, excluding gays and losses from non-marketable and publicly held equity securities.
+
+00:24:17.920 --> 00:24:26.080
+ Gap and non-gap tax rates are expected to be 16.5%, plus or minus 1%, excluding any discrete
+
+00:24:26.080 --> 00:24:29.080
+ items.
+
+00:24:29.080 --> 00:24:33.780
+ Further financial details are included in the CFO commentary and other information available
+
+00:24:33.780 --> 00:24:40.900
+ on our IR website, including a new financially information AI agent.
+
+00:24:40.900 --> 00:24:44.060
+ Let me highlight upcoming events for the financial community.
+
+00:24:44.060 --> 00:24:48.800
+ We will be at the B of A Global Technology Conference in San Francisco on June 4.
+
+00:24:48.800 --> 00:24:55.120
+ The Rosenblatt Virtual AI Summit and Yazdek Investor Conference in London on June 10,
+
+00:24:55.120 --> 00:24:59.840
+ on GTC Paris at VivaTech on June 11 in Paris.
+
+00:24:59.840 --> 00:25:03.840
+ We look forward to seeing you at these events.
+
+00:25:03.840 --> 00:25:09.560
+ Our earnings call to discuss the results of our second quarter of fiscal 2026 is scheduled
+
+00:25:09.560 --> 00:25:12.160
+ for August 27.
+
+00:25:12.160 --> 00:25:17.000
+ Well now, let me turn it over to Jensen to make some remarks.
+
+00:25:17.000 --> 00:25:19.680
+ Thanks, Collette.
+
+00:25:19.680 --> 00:25:22.080
+ We've had a busy and productive year.
+
+00:25:22.080 --> 00:25:27.800
+ Let me share my perspective on some topics we're frequently asked.
+
+00:25:27.800 --> 00:25:35.640
+ On export control, China is one of the world's largest AI markets and a springboard to global
+
+00:25:35.640 --> 00:25:37.240
+ success.
+
+00:25:37.240 --> 00:25:42.800
+ With half of the world's AI researchers based there, the platform that wins China is positioned
+
+00:25:42.800 --> 00:25:44.400
+ to lead globally.
+
+00:25:44.400 --> 00:25:52.480
+ Today, however, the $50 billion China market is effectively closed to U.S. industry.
+
+00:25:52.480 --> 00:25:58.320
+ The H20 export ban ended our Hopper data center business in China.
+
+00:25:58.320 --> 00:26:01.720
+ We cannot reduce Hopper further to comply.
+
+00:26:01.720 --> 00:26:06.560
+ As a result, we are taking a multi-billion dollar write-off on inventory that cannot
+
+00:26:06.560 --> 00:26:09.320
+ be sold or repurposed.
+
+00:26:09.320 --> 00:26:16.720
+ We are exploring limited ways to compete, but Hopper is no longer an option.
+
+00:26:16.720 --> 00:26:21.120
+ China's AI moves on with or without U.S. chips.
+
+00:26:21.120 --> 00:26:25.480
+ It has to compute to train and deploy advanced models.
+
+00:26:25.480 --> 00:26:28.820
+ The question is not whether China will have AI.
+
+00:26:28.820 --> 00:26:30.460
+ It already does.
+
+00:26:30.460 --> 00:26:37.040
+ The question is whether one of the world's largest AI markets will run on American platforms.
+
+00:26:37.040 --> 00:26:43.760
+ Being Chinese chip makers from U.S. competition only strengthens them abroad and weakens America's
+
+00:26:43.760 --> 00:26:45.280
+ position.
+
+00:26:45.280 --> 00:26:49.800
+ Export restrictions have spurred China's innovation and scale.
+
+00:26:49.800 --> 00:26:53.280
+ The AI race is not just about chips.
+
+00:26:53.280 --> 00:26:56.640
+ It's about which stack the world runs on.
+
+00:26:56.640 --> 00:27:02.520
+ As that stack grows to include 6G and quantum, U.S. global infrastructure leadership is at
+
+00:27:02.520 --> 00:27:03.520
+ stake.
+
+00:27:03.520 --> 00:27:10.520
+ The U.S. has based its policy on the assumption that China cannot make AI chips.
+
+00:27:10.520 --> 00:27:15.640
+ That assumption was always questionable and now it's clearly wrong.
+
+00:27:15.640 --> 00:27:20.040
+ China has enormous manufacturing capability.
+
+00:27:20.040 --> 00:27:26.680
+ In the end, the platform that wins the AI developers wins AI.
+
+00:27:26.680 --> 00:27:32.520
+ Export controls should strengthen U.S. platforms, not drive half of the world's AI talent
+
+00:27:32.520 --> 00:27:35.680
+ to rivals.
+
+00:27:35.680 --> 00:27:45.800
+ On DeepSeq, DeepSeq and QN from China are among the best open source AI models.
+
+00:27:45.800 --> 00:27:51.640
+ Released freely, they've gained traction across the U.S., Europe, and beyond.
+
+00:27:51.640 --> 00:27:58.440
+ DeepSeq R1, like ChatGPT, introduced reasoning AI that produces better answers the longer
+
+00:27:58.440 --> 00:28:00.920
+ in thinks.
+
+00:28:00.920 --> 00:28:07.640
+ Reasoning AI enables step-by-step problem-solving, planning, and tool use, turning models into
+
+00:28:07.640 --> 00:28:10.760
+ intelligent agents.
+
+00:28:10.760 --> 00:28:21.840
+ Reasoning is compute-intensive, requires hundreds to thousands of times more tokens per task
+
+00:28:21.840 --> 00:28:25.560
+ than previous one-shot inference.
+
+00:28:25.560 --> 00:28:30.360
+ Simultaneous models are driving a step-function surge in inference demand.
+
+00:28:30.360 --> 00:28:38.400
+ AI scaling laws remain firmly intact, not only for training, but now, inference too,
+
+00:28:38.400 --> 00:28:41.280
+ requires massive-scale compute.
+
+00:28:41.280 --> 00:28:46.280
+ DeepSeq also underscores the strategic value of open source AI.
+
+00:28:46.280 --> 00:28:52.200
+ When popular models are trained and optimized on U.S. platforms, it drives usage, feedback,
+
+00:28:52.200 --> 00:28:57.040
+ and continuous improvement, reinforcing American leadership across the stack.
+
+00:28:57.040 --> 00:29:03.520
+ U.S. platforms must remain the preferred platform for open source AI.
+
+00:29:03.520 --> 00:29:09.880
+ That means supporting collaboration with top developers globally, including in China.
+
+00:29:09.880 --> 00:29:17.920
+ America wins when models like DeepSeq and QN run best on American infrastructure.
+
+00:29:17.920 --> 00:29:24.160
+ Building onshore manufacturing President Trump has outlined a bold vision
+
+00:29:24.160 --> 00:29:31.120
+ to reshort advanced manufacturing, create jobs, and strengthen national security.
+
+00:29:31.120 --> 00:29:34.960
+ Future plants will be highly computerized in robotics.
+
+00:29:34.960 --> 00:29:36.560
+ We share this vision.
+
+00:29:36.560 --> 00:29:42.360
+ TSMC is building six fabs and two advanced packaging plants in Arizona to make chips
+
+00:29:42.360 --> 00:29:44.480
+ for NVIDIA.
+
+00:29:44.480 --> 00:29:50.680
+ This qualification is underway with volume production expected by year end.
+
+00:29:50.680 --> 00:29:56.760
+ Spill and Amcore are also investing in Arizona, constructing packaging, assembly, and test
+
+00:29:56.760 --> 00:29:58.720
+ facilities.
+
+00:29:58.720 --> 00:30:04.000
+ In Houston, we're partnering with Foxconn to construct a million-square-foot factory
+
+00:30:04.000 --> 00:30:06.560
+ to build AI supercomputers.
+
+00:30:06.560 --> 00:30:11.600
+ Wistron is building a similar plant in Fort Worth, Texas.
+
+00:30:11.600 --> 00:30:16.080
+ To encourage and support these investments, we've made substantial long-term purchase
+
+00:30:16.080 --> 00:30:23.400
+ commitments, a deep investment in America's AI manufacturing future.
+
+00:30:23.400 --> 00:30:31.080
+ Our goal, from chip to supercomputer, built in America within a year.
+
+00:30:31.080 --> 00:30:41.200
+ Each GB200 and B-Link 72 racks contains 1.2 million components and weighs nearly 2 tons.
+
+00:30:41.200 --> 00:30:44.900
+ No one has produced supercomputers on this scale.
+
+00:30:44.900 --> 00:30:49.760
+ Our partners are doing an extraordinary job.
+
+00:30:49.760 --> 00:30:58.320
+ On AI diffusion rule, President Trump rescinded the AI diffusion rule, calling it counterproductive,
+
+00:30:58.320 --> 00:31:05.000
+ and proposed a new policy to promote U.S. AI tech with trusted partners.
+
+00:31:05.000 --> 00:31:09.000
+ On his Middle East tour, he announced historic investments.
+
+00:31:09.000 --> 00:31:14.320
+ I was honored to join him in announcing a 500-megawatt AI infrastructure project in
+
+00:31:14.320 --> 00:31:21.600
+ Saudi Arabia and a 5-gigawatt AI campus in the UAE.
+
+00:31:21.600 --> 00:31:24.680
+ President Trump wants U.S. tech to lead.
+
+00:31:24.680 --> 00:31:31.680
+ The deals he announced are wins for America, creating jobs, advancing infrastructure, generating
+
+00:31:31.680 --> 00:31:36.280
+ tax revenue, and reducing the U.S. trade deficit.
+
+00:31:36.280 --> 00:31:40.960
+ The U.S. will always be Nvidia's largest market and home to the largest install base
+
+00:31:40.960 --> 00:31:44.040
+ of our infrastructure.
+
+00:31:44.040 --> 00:31:51.560
+ Every nation now sees AI as core to the next industrial revolution, a new industry that
+
+00:31:51.560 --> 00:31:57.000
+ produces intelligence and essential infrastructure for every economy.
+
+00:31:57.000 --> 00:32:03.200
+ Countries are racing to build national AI platforms to elevate their digital capabilities.
+
+00:32:03.200 --> 00:32:09.520
+ At Computext, we announced Taiwan's first AI factory in partnership with Foxconn and
+
+00:32:09.520 --> 00:32:11.880
+ the Taiwan government.
+
+00:32:11.880 --> 00:32:16.680
+ Last week, I was in Sweden to launch its first national AI infrastructure.
+
+00:32:16.680 --> 00:32:25.800
+ Japan, Korea, India, Canada, France, the UK, Germany, Italy, Spain, and more are now building
+
+00:32:25.800 --> 00:32:32.240
+ national AI factories to empower startups, industries, and societies.
+
+00:32:32.240 --> 00:32:35.880
+ National AI is a new growth engine for Nvidia.
+
+00:32:35.880 --> 00:32:39.520
+ Toshia, back to you.
+
+00:32:39.520 --> 00:32:40.520
+ Thank you.
+
+00:32:40.520 --> 00:32:43.440
+ Operator, we will now open the call for questions.
+
+00:32:43.440 --> 00:32:46.720
+ Would you please pull for questions?
+
+00:32:46.720 --> 00:32:47.720
+ Thank you.
+
+00:32:47.720 --> 00:32:52.360
+ At this time, I would like to remind everyone in order to ask a question, press star, then
+
+00:32:52.360 --> 00:32:55.040
+ the number one on your telephone keypad.
+
+00:32:55.040 --> 00:33:02.200
+ We'll pause for just a moment to compile the Q&A roster.
+
+00:33:02.200 --> 00:33:07.440
+ Your first question comes from the line of Joe Moore with Morgan Stanley.
+
+00:33:07.440 --> 00:33:09.160
+ Your line is open.
+
+00:33:09.160 --> 00:33:10.160
+ Great.
+
+00:33:10.160 --> 00:33:11.160
+ Thank you.
+
+00:33:11.160 --> 00:33:17.240
+ You guys have talked about this scaling up of inference around reasoning models for at
+
+00:33:17.240 --> 00:33:20.320
+ least a year now, and we've really seen that come to fruition.
+
+00:33:20.320 --> 00:33:22.760
+ As you talked about, we've heard it from your customers.
+
+00:33:22.760 --> 00:33:28.120
+ Can you give us a sense for how much of that demand you're able to serve and give us a
+
+00:33:28.120 --> 00:33:31.680
+ sense for maybe how big the inference business is for you guys?
+
+00:33:31.680 --> 00:33:39.820
+ Do we need full on NBL-72 rack scale solutions for reasoning inference going forward?
+
+00:33:39.820 --> 00:33:50.240
+ Well we would like to serve all of it, and I think we're on track to serve most of it.
+
+00:33:50.240 --> 00:33:59.680
+ Rice Blackwell NVLink-72 is the ideal engine today, the ideal computer thinking machine,
+
+00:33:59.680 --> 00:34:01.720
+ if you will, for reasoning AI.
+
+00:34:01.720 --> 00:34:04.760
+ There's a couple of reasons for that.
+
+00:34:04.760 --> 00:34:12.480
+ The first reason is that the token generation amount, the number of tokens reasoning goes
+
+00:34:12.480 --> 00:34:20.600
+ through is a hundred, a thousand times more than a one-shot chatbot.
+
+00:34:20.600 --> 00:34:26.000
+ It's essentially thinking to itself, breaking down a problem step by step.
+
+00:34:26.000 --> 00:34:30.800
+ It might be planning multiple paths to an answer.
+
+00:34:30.800 --> 00:34:42.440
+ It could be using tools, reading PDFs, reading webpages, watching videos, and then producing
+
+00:34:42.440 --> 00:34:44.840
+ a result, an answer.
+
+00:34:44.840 --> 00:34:53.120
+ The longer it thinks, the better the answer, the smarter the answer is.
+
+00:34:53.120 --> 00:34:58.320
+ What we would like to do, and the reason why Rice Blackwell was designed to give such
+
+00:34:58.320 --> 00:35:04.200
+ a giant step up in inference performance, is so that you could do all this and still
+
+00:35:04.200 --> 00:35:08.560
+ get a response as quickly as possible.
+
+00:35:08.560 --> 00:35:19.080
+ Compared to Hopper, Rice Blackwell is some 40 times higher speed and throughput compared.
+
+00:35:19.080 --> 00:35:27.640
+ This is going to be a huge benefit in driving down the cost while improving the quality
+
+00:35:27.640 --> 00:35:34.160
+ of response with excellent quality of service at the same time.
+
+00:35:34.160 --> 00:35:38.400
+ That was the fundamental reason, that was the core driving reason for Grace Blackwell and
+
+00:35:38.400 --> 00:35:39.680
+ B-Link 72.
+
+00:35:39.680 --> 00:35:49.880
+ Of course, in order to do that, we had to reinvent, literally redesign the entire way that these
+
+00:35:49.880 --> 00:35:54.600
+ supercomputers are built.
+
+00:35:54.600 --> 00:35:58.680
+ But now we're in full production.
+
+00:35:58.680 --> 00:35:59.680
+ It's going to be exciting.
+
+00:35:59.680 --> 00:36:04.960
+ This is going to be incredibly exciting.
+
+00:36:04.960 --> 00:36:10.360
+ The next question comes from Vivek Arya with Bank of America Securities.
+
+00:36:10.360 --> 00:36:13.360
+ Your line is open.
+
+00:36:13.360 --> 00:36:14.360
+ Thanks for the question.
+
+00:36:14.360 --> 00:36:17.040
+ Just a clarification for Collette first.
+
+00:36:17.040 --> 00:36:21.840
+ So on the China impact, I think previously it was mentioned that at about $15 billion,
+
+00:36:21.840 --> 00:36:27.360
+ so you had the $8 billion in Q2, so is there still some left as a headwind for the remaining
+
+00:36:27.360 --> 00:36:28.360
+ quarters?
+
+00:36:28.360 --> 00:36:30.640
+ Just Collette, how to model that.
+
+00:36:30.640 --> 00:36:32.560
+ And then question, Jensen, for you.
+
+00:36:32.560 --> 00:36:39.920
+ Back at GTC, you had outlined the path towards almost a trillion dollars of AI spending over
+
+00:36:39.920 --> 00:36:42.040
+ the next few years.
+
+00:36:42.040 --> 00:36:44.520
+ Where are we in that build out?
+
+00:36:44.520 --> 00:36:49.800
+ And do you think it's going to be uniform that you will see every spender, whether it's
+
+00:36:49.800 --> 00:36:55.960
+ ESP, sovereign enterprises or build out, should we expect some periods of digestion in between?
+
+00:36:55.960 --> 00:37:02.080
+ What are your customer discussions telling you about how to model growth for next year?
+
+00:37:02.080 --> 00:37:04.080
+ Yes, Vivek.
+
+00:37:04.080 --> 00:37:07.360
+ Thanks so much for the question regarding H20.
+
+00:37:07.360 --> 00:37:12.880
+ Yes, we recognized 4.6 H20 in Q1.
+
+00:37:12.880 --> 00:37:21.840
+ We were unable to ship $2.5 billion, so the total for Q1 should have been $7 billion.
+
+00:37:21.840 --> 00:37:27.120
+ When we look at our Q2, our Q2 is going to be meaningfully down in terms of China data
+
+00:37:27.120 --> 00:37:34.480
+ center revenue, and we had highlighted in terms of the amount of orders that we had planned
+
+00:37:34.480 --> 00:37:38.760
+ for H20 in Q2, and that was $8 billion.
+
+00:37:38.760 --> 00:37:45.560
+ Now going forward, we did have other orders going forward that we will not be able to
+
+00:37:45.560 --> 00:37:46.560
+ fulfill.
+
+00:37:46.560 --> 00:37:54.120
+ That is what was incorporated, therefore, in the amount that we wrote down of the $4.5
+
+00:37:54.120 --> 00:37:55.400
+ billion.
+
+00:37:55.400 --> 00:38:02.200
+ That write down was about inventory and purchase commitments, and our purchase commitments were
+
+00:38:02.200 --> 00:38:07.400
+ about what we expected regarding the orders that we had received.
+
+00:38:07.400 --> 00:38:13.920
+ Going forward, though, it's a bigger issue regarding the amount of the market that we
+
+00:38:13.920 --> 00:38:16.040
+ will not be able to serve.
+
+00:38:16.040 --> 00:38:23.640
+ We assess that TAM to be close to about $50 billion in the future as we don't have a
+
+00:38:23.640 --> 00:38:29.360
+ product to enable for the China.
+
+00:38:29.360 --> 00:38:38.440
+ In fact, probably the best way to think through it is that AI is several things.
+
+00:38:38.440 --> 00:38:45.360
+ Of course, we know that AI is this incredible technology that's going to transform every
+
+00:38:45.360 --> 00:38:58.600
+ industry from, of course, the way we do software to healthcare and financial services, to retail,
+
+00:38:58.600 --> 00:39:05.680
+ to, I guess, every industry, transportation, manufacturing, and we're at the beginning
+
+00:39:05.680 --> 00:39:12.920
+ of that, but maybe another way to think about that is where do we need intelligence, where
+
+00:39:12.920 --> 00:39:18.360
+ do we need digital intelligence, and every country is in every industry.
+
+00:39:18.360 --> 00:39:26.000
+ We know because of that, we recognize that AI is also an infrastructure.
+
+00:39:26.000 --> 00:39:31.960
+ It's a way of delivering a technology that requires factories.
+
+00:39:31.960 --> 00:39:37.800
+ These factories produce tokens, and they, as I mentioned, are important to every single
+
+00:39:37.800 --> 00:39:41.040
+ industry in every single country.
+
+00:39:41.040 --> 00:39:45.760
+ On that basis, we're really at the very beginning of it because the adoption of this technology
+
+00:39:45.760 --> 00:39:48.720
+ is really kind of in its early, early stages.
+
+00:39:48.720 --> 00:39:56.520
+ Now, we've reached an extraordinary milestone with AIs that are reasoning, are thinking,
+
+00:39:56.520 --> 00:39:59.600
+ what people call inference times scaling.
+
+00:39:59.600 --> 00:40:09.760
+ Of course, it created a whole new, we've entered an era where inference is going to be a significant
+
+00:40:09.760 --> 00:40:13.940
+ part of the compute workload.
+
+00:40:13.940 --> 00:40:21.280
+ But anyhow, it's going to be a new infrastructure, and we're building it out in the clouds.
+
+00:40:21.280 --> 00:40:29.680
+ The United States is really the early starter and available in U.S. clouds, and this is
+
+00:40:29.680 --> 00:40:35.280
+ our largest market, our largest installed base, and we can continue to see that happening.
+
+00:40:35.280 --> 00:40:42.680
+ But beyond that, we're going to see AI go into enterprise, which is on-prem because so much
+
+00:40:42.680 --> 00:40:47.840
+ of the data is still on-prem, access control is really important.
+
+00:40:47.840 --> 00:40:52.760
+ It's really hard to move all of every company's data into the cloud, and so we're going to
+
+00:40:52.760 --> 00:40:56.480
+ move AI into the enterprise.
+
+00:40:56.480 --> 00:41:03.760
+ You saw that we announced a couple of really exciting new products, our RTX Pro Enterprise
+
+00:41:03.760 --> 00:41:11.800
+ AI server that runs everything enterprise and AI, our DGX Spark and DGX Station, which
+
+00:41:11.800 --> 00:41:18.320
+ is designed for developers who want to work on-prem.
+
+00:41:18.320 --> 00:41:22.520
+ Enterprise AI is just taking off.
+
+00:41:22.520 --> 00:41:29.160
+ Telcos, today, a lot of the telco infrastructure will be in the future software defined and
+
+00:41:29.160 --> 00:41:33.520
+ built on AI, and so 6G is going to be built on AI.
+
+00:41:33.520 --> 00:41:38.920
+ That infrastructure needs to be built out, and it's very, very early stages.
+
+00:41:38.920 --> 00:41:44.400
+ And then, of course, every factory today that makes things will have an AI factory that
+
+00:41:44.400 --> 00:41:52.560
+ sits with it, and the AI factory is going to be creating AI and operating AI for the
+
+00:41:52.560 --> 00:41:58.920
+ factory itself, but also to power the products and the things that are made by the factory.
+
+00:41:58.920 --> 00:42:05.040
+ So it's very clear that every car company will have AI factories, and very soon there'll
+
+00:42:05.040 --> 00:42:12.280
+ be robotics companies, robot companies, and those companies will be also building AIs
+
+00:42:12.280 --> 00:42:14.840
+ to drive the robots.
+
+00:42:14.840 --> 00:42:22.520
+ And so we're at the beginning of all of this build out.
+
+00:42:22.520 --> 00:42:27.640
+ The next question comes from CJ News with Canter Fitzgerald.
+
+00:42:27.640 --> 00:42:28.640
+ Your line is open.
+
+00:42:28.640 --> 00:42:29.640
+ Yeah.
+
+00:42:29.640 --> 00:42:30.640
+ Good afternoon.
+
+00:42:30.640 --> 00:42:31.640
+ Thank you for taking the question.
+
+00:42:31.640 --> 00:42:36.720
+ There have been many large GPU cluster investment announcements in the last month, and you alluded
+
+00:42:36.720 --> 00:42:42.240
+ to a few of them with Saudi Arabia, the UAE, and then also we've heard from Oracle and
+
+00:42:42.240 --> 00:42:43.840
+ XAI just to name a few.
+
+00:42:43.840 --> 00:42:49.200
+ So my question, are there other that have yet to be announced of the same kind of scale
+
+00:42:49.200 --> 00:42:54.560
+ and magnitude and perhaps more importantly, how are these orders impacting your lead times
+
+00:42:54.560 --> 00:42:59.600
+ for Blackwell and your current visibility sitting here today, almost halfway through
+
+00:42:59.600 --> 00:43:03.920
+ 2025?
+
+00:43:03.920 --> 00:43:13.800
+ Well we have more orders today than we did at the last time I spoke about orders at GTC.
+
+00:43:13.800 --> 00:43:20.000
+ However, we're also increasing our supply chain and building out our supply chain.
+
+00:43:20.000 --> 00:43:22.400
+ They're doing a fantastic job.
+
+00:43:22.400 --> 00:43:28.000
+ We're building it here on shore in the United States, but we're going to keep our supply
+
+00:43:28.000 --> 00:43:33.440
+ chain quite busy for several many more years coming.
+
+00:43:33.440 --> 00:43:44.680
+ And with respect to further announcements, I'm going to be on the road next week through
+
+00:43:44.680 --> 00:43:54.400
+ Europe, and it's just about every country needs to build out AI infrastructure and their
+
+00:43:54.400 --> 00:44:00.520
+ umpteen AI factories being planned.
+
+00:44:00.520 --> 00:44:08.760
+ I think in the remarks, Collette mentioned there's some 100 AI factories being built.
+
+00:44:08.760 --> 00:44:13.960
+ There's a whole bunch that haven't been announced.
+
+00:44:13.960 --> 00:44:24.000
+ And I think the important concept here, which makes it easier to understand, is that like
+
+00:44:24.000 --> 00:44:30.440
+ other technologies that impact literally every single industry, of course electricity
+
+00:44:30.440 --> 00:44:33.160
+ was one and it became infrastructure.
+
+00:44:33.160 --> 00:44:38.160
+ Of course, the information infrastructure, which we now know as the internet, affects
+
+00:44:38.160 --> 00:44:43.760
+ every single industry, every country, every society.
+
+00:44:43.760 --> 00:44:46.680
+ Intelligence is surely one of those things.
+
+00:44:46.680 --> 00:44:53.280
+ I don't know any company, industry, country who thinks that intelligence is optional.
+
+00:44:53.280 --> 00:44:54.760
+ It's essential infrastructure.
+
+00:44:54.760 --> 00:45:02.120
+ And so we've now digitalized intelligence.
+
+00:45:02.120 --> 00:45:08.800
+ And so I think we're clearly in the beginning of the build out of this infrastructure.
+
+00:45:08.800 --> 00:45:11.960
+ And every country will have it.
+
+00:45:11.960 --> 00:45:13.360
+ I'm certain of that.
+
+00:45:13.360 --> 00:45:16.920
+ Every industry will use it, that I'm certain of.
+
+00:45:16.920 --> 00:45:23.080
+ And what's unique about this infrastructure is that it needs factories.
+
+00:45:23.080 --> 00:45:28.960
+ You know, it's a little bit like the energy infrastructure, electricity.
+
+00:45:28.960 --> 00:45:30.640
+ It needs factories.
+
+00:45:30.640 --> 00:45:33.880
+ We need factories to produce this intelligence.
+
+00:45:33.880 --> 00:45:36.560
+ And the intelligence is getting more sophisticated.
+
+00:45:36.560 --> 00:45:41.720
+ We were talking about earlier that we had a huge breakthrough in the last couple of years
+
+00:45:41.720 --> 00:45:47.640
+ with reasoning AI and now there are agents that reason and there's super agents that
+
+00:45:47.640 --> 00:45:51.960
+ use a whole bunch of tools and then there's clusters of super agents where agents are
+
+00:45:51.960 --> 00:45:54.800
+ working with agents, solving problems.
+
+00:45:54.800 --> 00:46:02.040
+ And so you could just imagine compared to one shot chatbots and the agents that are
+
+00:46:02.040 --> 00:46:08.320
+ now using AI built on these large language models, how much more compute intensive they
+
+00:46:08.320 --> 00:46:09.920
+ really need to be in our.
+
+00:46:09.920 --> 00:46:16.000
+ And so I think we're in the beginning of the build out and there should be there should
+
+00:46:16.000 --> 00:46:22.320
+ be many, many more announcements in the future.
+
+00:46:22.320 --> 00:46:24.440
+ Your next question.
+
+00:46:24.440 --> 00:46:29.720
+ Your next question comes from Ben Wrights with me, your line is open.
+
+00:46:29.720 --> 00:46:33.600
+ Yeah, thanks for the question.
+
+00:46:33.600 --> 00:46:39.280
+ I wanted to ask, you know, first to collect just a little clarification around the guidance
+
+00:46:39.280 --> 00:46:41.920
+ and maybe putting it in a different way.
+
+00:46:41.920 --> 00:46:47.560
+ You know, the 8 billion for age 20 just seems like, you know, it's roughly 3 billion more
+
+00:46:47.560 --> 00:46:53.680
+ than most people thought with regard to what you'd be foregoing in the second quarter.
+
+00:46:53.680 --> 00:46:58.120
+ So that would mean that, you know, with regard to your guidance, the rest of the business,
+
+00:46:58.120 --> 00:47:04.040
+ you know, in order to hit 45 is doing 2 to 3 billion or so better.
+
+00:47:04.040 --> 00:47:09.800
+ So you know, I was wondering if that math made sense to you and then, you know, in terms
+
+00:47:09.800 --> 00:47:16.080
+ of the guidance that would imply the non China business is doing a bit better than the street
+
+00:47:16.080 --> 00:47:17.080
+ expected.
+
+00:47:17.080 --> 00:47:22.800
+ So, you know, wondering, you know, what the primary driver was there in your view.
+
+00:47:22.800 --> 00:47:30.080
+ And then this, this second part of my question, you know, Jensen, I know you guide one quarter
+
+00:47:30.080 --> 00:47:38.920
+ at a time, but with regard to the AI diffusion rule being lifted, and this momentum with
+
+00:47:38.920 --> 00:47:44.640
+ sovereign, you know, there's been times in your history, where you've where you guys
+
+00:47:44.640 --> 00:47:49.680
+ have said on calls like this, where, you know, you have more conviction and sequential growth
+
+00:47:49.680 --> 00:47:51.160
+ throughout the year, etc.
+
+00:47:51.160 --> 00:47:56.800
+ And given given the unleashing of demand with AI diffusion being, you know, revoked and
+
+00:47:56.800 --> 00:48:03.800
+ the supply chain increasing, you know, does the environment give you more conviction and
+
+00:48:03.800 --> 00:48:05.960
+ sequential growth as we go throughout the year.
+
+00:48:05.960 --> 00:48:12.160
+ So first one for Collette and then next one for Jensen, thanks so much.
+
+00:48:12.160 --> 00:48:14.160
+ Thanks Ben for the question.
+
+00:48:14.160 --> 00:48:22.760
+ When we look at our Q to guidance and our commentary that we provided that had the export controls
+
+00:48:22.760 --> 00:48:29.880
+ not occurred, we would have had orders of about 8 billion for H 20.
+
+00:48:29.880 --> 00:48:30.880
+ That's correct.
+
+00:48:30.880 --> 00:48:38.880
+ That's a possibility for what we would have had in our outlook for this quarter in Q2.
+
+00:48:38.880 --> 00:48:44.820
+ So what we also have talked about here is the growth that we've seen in Blackwell, Blackwell
+
+00:48:44.820 --> 00:48:49.200
+ across many of our customers, as well as the growth that we continue to have in terms of
+
+00:48:49.200 --> 00:48:52.880
+ supply that we need for customers.
+
+00:48:52.880 --> 00:48:57.960
+ So putting those together, that's where we came through with the guidance that we provided.
+
+00:48:57.960 --> 00:49:04.560
+ I'm going to turn the rest over to Jensen to see how he wants to do this.
+
+00:49:04.560 --> 00:49:05.960
+ Thanks Ben.
+
+00:49:05.960 --> 00:49:12.920
+ I would say compared to the beginning of the year compared to GTC timeframe, there are
+
+00:49:12.920 --> 00:49:18.280
+ four positive surprises.
+
+00:49:18.280 --> 00:49:27.880
+ The first positive surprise is the step function demand increase of reasoning AI.
+
+00:49:27.880 --> 00:49:34.920
+ I think it is fairly clear now that AI is going through an exponential growth and reasoning
+
+00:49:34.920 --> 00:49:39.120
+ AI really busted through.
+
+00:49:39.120 --> 00:49:48.720
+ Concerns about hallucination or its ability to really solve problems and I think a lot
+
+00:49:48.720 --> 00:49:57.840
+ of people are crossing that barrier and realizing how incredibly effective agentic AI is.
+
+00:49:57.840 --> 00:50:00.160
+ And reasoning AI is.
+
+00:50:00.160 --> 00:50:08.040
+ So number one is inference reasoning and the exponential growth there, demand growth.
+
+00:50:08.040 --> 00:50:13.520
+ The second one, you mentioned AI diffusion.
+
+00:50:13.520 --> 00:50:20.160
+ It's really terrific to see that the AI diffusion rule was rescinded.
+
+00:50:20.160 --> 00:50:31.360
+ President Trump wants America to win and he also realizes that we're not the only country
+
+00:50:31.360 --> 00:50:39.560
+ in the race and he wants United States to win and recognizes that we have to get the
+
+00:50:39.560 --> 00:50:45.880
+ American stack out to the world and have the world build on top of American stacks instead
+
+00:50:45.880 --> 00:50:47.480
+ of alternatives.
+
+00:50:47.480 --> 00:50:56.240
+ And so AI diffusion happened, the rescinding of it happened at almost precisely the time
+
+00:50:56.240 --> 00:51:02.520
+ that the countries around the world are awakening the importance of AI as an infrastructure.
+
+00:51:02.520 --> 00:51:08.760
+ Not just as a technology of great curiosity and great importance, but infrastructure for
+
+00:51:08.760 --> 00:51:12.320
+ their industries and startups and society.
+
+00:51:12.320 --> 00:51:16.440
+ Just as they had to build out infrastructure for electricity and internet, you got to
+
+00:51:16.440 --> 00:51:18.600
+ build out an infrastructure for AI.
+
+00:51:18.600 --> 00:51:23.960
+ I think that that's an awakening and that creates a lot of opportunity.
+
+00:51:23.960 --> 00:51:26.320
+ The third is enterprise AI.
+
+00:51:26.320 --> 00:51:33.800
+ Agents work and agents are doing these agents are really quite successful.
+
+00:51:33.800 --> 00:51:40.320
+ Much more than generative AI, agentic AI is game changing.
+
+00:51:40.320 --> 00:51:49.700
+ Agents can understand ambiguous and rather implicit instructions and able to problem
+
+00:51:49.700 --> 00:51:53.800
+ solve and use tools and have memory and so on.
+
+00:51:53.800 --> 00:52:00.480
+ And so I think this is enterprise AI is ready to take off and it's taken us a few years
+
+00:52:00.480 --> 00:52:11.080
+ to build a computing system that is able to integrate run enterprise AI stacks, run enterprise
+
+00:52:11.080 --> 00:52:13.960
+ IT stacks, but add AI to it.
+
+00:52:13.960 --> 00:52:23.280
+ And this is the RTX Pro Enterprise Server that we announced at Computex just last week.
+
+00:52:23.280 --> 00:52:30.000
+ And just about every major IT company has joined us and super excited about that.
+
+00:52:30.000 --> 00:52:38.200
+ And so computing is one part of it, but remember enterprise IT is really three pillars.
+
+00:52:38.200 --> 00:52:44.900
+ It's compute, storage and networking and we've now put all three of them together for finally
+
+00:52:44.900 --> 00:52:47.520
+ and we're going to market with that.
+
+00:52:47.520 --> 00:52:50.600
+ And then lastly, industrial AI.
+
+00:52:50.600 --> 00:53:02.880
+ Remember one of the implications of the world reordering, if you will, is regions on-shoring
+
+00:53:02.880 --> 00:53:06.360
+ manufacturing and building plants everywhere.
+
+00:53:06.360 --> 00:53:14.080
+ In addition to AI factories, of course, there are new electronics manufacturing, chip manufacturing
+
+00:53:14.080 --> 00:53:16.280
+ being built around the world.
+
+00:53:16.280 --> 00:53:24.960
+ And all of these new plants and these new factories are creating exactly the right time when omniverses
+
+00:53:24.960 --> 00:53:30.880
+ and AI and all the work that we're doing with robotics is emerging.
+
+00:53:30.880 --> 00:53:35.560
+ And so this fourth pillar is quite important.
+
+00:53:35.560 --> 00:53:39.440
+ Every factory will have an AI factory associated with it.
+
+00:53:39.440 --> 00:53:46.000
+ And in order to create these physical AI systems, you really have to train a vast amount of
+
+00:53:46.000 --> 00:53:47.000
+ data.
+
+00:53:47.000 --> 00:53:52.640
+ So back to more data, more training, more AIs to be created, more computers.
+
+00:53:52.640 --> 00:54:03.040
+ And so these four drivers are really kicking into turbo charge.
+
+00:54:03.040 --> 00:54:07.840
+ Your next question comes from Timothy Arcuri with UBS.
+
+00:54:07.840 --> 00:54:08.840
+ Your line is open.
+
+00:54:08.840 --> 00:54:09.840
+ Thanks a lot.
+
+00:54:09.840 --> 00:54:12.480
+ Jensen, I wanted to ask about China.
+
+00:54:12.480 --> 00:54:17.000
+ It sounds like the July guidance assumes there's no SKU replacement for the H20.
+
+00:54:17.000 --> 00:54:20.680
+ But if the president wants the US to win, it seems like you're going to have to be allowed
+
+00:54:20.680 --> 00:54:22.320
+ to ship something into China.
+
+00:54:22.320 --> 00:54:25.760
+ So I guess I had two points on that.
+
+00:54:25.760 --> 00:54:29.480
+ First of all, have you been approved to ship a new modified version into China?
+
+00:54:29.480 --> 00:54:32.920
+ And you're currently building it, but you just can't ship it in fiscal Q2.
+
+00:54:32.920 --> 00:54:38.240
+ And then you were sort of run rating $7 to $8 billion a quarter into China.
+
+00:54:38.240 --> 00:54:42.600
+ When we get back to those sorts of quarterly run rates, once you get something that you're
+
+00:54:42.600 --> 00:54:46.240
+ allowed to ship back into China, I think we're all trying to figure out how much to add back
+
+00:54:46.240 --> 00:54:47.240
+ to our models and when.
+
+00:54:47.240 --> 00:54:52.040
+ So whatever you can say there would be great, thanks.
+
+00:54:52.040 --> 00:54:53.840
+ The president has a plan.
+
+00:54:53.840 --> 00:54:56.720
+ He has a vision, and I trust him.
+
+00:54:56.720 --> 00:55:06.200
+ With respect to our export controls, it's a set of limits.
+
+00:55:06.200 --> 00:55:20.880
+ And the new set of limits pretty much make it impossible for us to reduce hopper any further
+
+00:55:20.880 --> 00:55:23.760
+ for any productive use.
+
+00:55:23.760 --> 00:55:32.640
+ And so the new limits, it's kind of the end of the road for hopper.
+
+00:55:32.640 --> 00:55:38.920
+ We have limited options, and so the key is to understand the limits.
+
+00:55:38.920 --> 00:55:43.720
+ The key is to understand the limits and see if we can come up with interesting products
+
+00:55:43.720 --> 00:55:49.280
+ that could continue to serve the Chinese market.
+
+00:55:49.280 --> 00:55:54.520
+ We don't have anything at the moment, but we're considering it.
+
+00:55:54.520 --> 00:55:56.600
+ We're thinking about it.
+
+00:55:56.600 --> 00:56:00.600
+ Obviously the limits are quite stringent at the moment.
+
+00:56:00.600 --> 00:56:05.880
+ And we have nothing to announce today.
+
+00:56:05.880 --> 00:56:18.560
+ And when the time comes, we'll engage the administration and discuss that.
+
+00:56:18.560 --> 00:56:23.520
+ Your final question comes from the line of Erin Rakers with Wells Fargo.
+
+00:56:23.520 --> 00:56:25.000
+ Your line is open.
+
+00:56:25.000 --> 00:56:28.480
+ Hi, this is Jake on for Erin.
+
+00:56:28.480 --> 00:56:31.600
+ Thanks for taking the question, and congrats on the great quarter.
+
+00:56:31.600 --> 00:56:36.320
+ I was wondering if you could give some additional color around the strength you saw within the
+
+00:56:36.320 --> 00:56:42.640
+ networking business, particularly around the adoption of your Ethernet solutions at CSPs
+
+00:56:42.640 --> 00:56:46.560
+ as well as any change you're seeing in network attach rates.
+
+00:56:46.560 --> 00:56:49.640
+ Yeah, thank you for that.
+
+00:56:49.640 --> 00:56:58.160
+ We now have three networking platforms, maybe four.
+
+00:56:58.160 --> 00:57:09.000
+ The first one is the Scale Up platform to turn a computer into a much larger computer.
+
+00:57:09.000 --> 00:57:10.880
+ Scaling up is incredibly hard to do.
+
+00:57:10.880 --> 00:57:14.640
+ Scaling out is easier to do, but scaling up is hard to do.
+
+00:57:14.640 --> 00:57:17.540
+ And that platform is called NVLink.
+
+00:57:17.540 --> 00:57:31.440
+ And NVLink comes with it, chips and switches, and NVLink spines, and it's really complicated.
+
+00:57:31.440 --> 00:57:35.900
+ But anyways, that's our new platform, Scale Up platform.
+
+00:57:35.900 --> 00:57:39.140
+ In addition to Infiniband, we also have SpectrumX.
+
+00:57:39.140 --> 00:57:47.700
+ We've been fairly consistent that Ethernet was designed for a lot of traffic that are
+
+00:57:47.700 --> 00:57:55.220
+ independent, but in the case of AI, you have a lot of computers working together.
+
+00:57:55.220 --> 00:58:00.740
+ And the traffic of AI is insanely bursty.
+
+00:58:00.740 --> 00:58:06.180
+ Latency matters a lot because the AI is thinking, and it wants to get worked on as quickly as
+
+00:58:06.180 --> 00:58:09.660
+ possible, and you've got a whole bunch of nodes working together.
+
+00:58:09.660 --> 00:58:20.540
+ And so we enhanced Ethernet added capabilities like extremely low latency, congestion control,
+
+00:58:20.540 --> 00:58:28.140
+ adaptive routing, the type of technologies that were available only in Infiniband to
+
+00:58:28.140 --> 00:58:29.660
+ Ethernet.
+
+00:58:29.660 --> 00:58:34.580
+ And as a result, we improved the utilization of Ethernet in these clusters.
+
+00:58:34.580 --> 00:58:43.900
+ These clusters are gigantic from as low as 50% to as high as 85%, 90%.
+
+00:58:43.900 --> 00:58:51.420
+ And so the difference is, if you had a cluster that's $10 billion, and you improved its effectiveness
+
+00:58:51.420 --> 00:58:55.980
+ by 40%, that's worth $4 billion.
+
+00:58:55.980 --> 00:58:57.660
+ It's incredible.
+
+00:58:57.660 --> 00:59:01.860
+ And so SpectrumX has been really, quite frankly, a home run.
+
+00:59:01.860 --> 00:59:12.780
+ And this last quarter, as we said in the prepared remarks, we added two very significant CSPs
+
+00:59:12.780 --> 00:59:17.180
+ to the SpectrumX adoption.
+
+00:59:17.180 --> 00:59:21.500
+ And then the last one, the last one is Bluefield, which is our control plane.
+
+00:59:21.500 --> 00:59:27.220
+ And so in those four, the control plane and network, which is used for storage, is used
+
+00:59:27.220 --> 00:59:37.460
+ for security, and for many of these clusters that want to achieve isolation among its users,
+
+00:59:37.460 --> 00:59:45.300
+ multi-tenant clusters, and still be able to use and have extremely high performance bare
+
+00:59:45.300 --> 00:59:51.860
+ metal performance, Bluefield is ideal for that, and is used in a lot of these cases.
+
+00:59:51.860 --> 00:59:59.380
+ So we have these four networking platforms that are all growing, and we're doing really
+
+00:59:59.380 --> 01:00:00.380
+ well.
+
+01:00:00.380 --> 01:00:03.380
+ I'm very proud of Team.
+
+01:00:03.380 --> 01:00:07.020
+ That is all the time we have for questions.
+
+01:00:07.020 --> 01:00:11.300
+ Denton, I will turn the call back to you.
+
+01:00:11.300 --> 01:00:12.380
+ Thank you.
+
+01:00:12.380 --> 01:00:15.940
+ This is the start of a powerful new wave of growth.
+
+01:00:15.940 --> 01:00:17.620
+ Grace Blackwell is in full production.
+
+01:00:17.620 --> 01:00:19.340
+ We're off to the races.
+
+01:00:19.340 --> 01:00:21.780
+ We now have multiple significant growth engines.
+
+01:00:21.780 --> 01:00:28.460
+ Inference, once the light of workload is surging with revenue generating AI services, AI is
+
+01:00:28.460 --> 01:00:34.060
+ growing faster and will be larger than any platform shifts before, including the Internet,
+
+01:00:34.060 --> 01:00:35.900
+ mobile, and cloud.
+
+01:00:35.900 --> 01:00:41.780
+ Blackwell is built to power the full AI lifecycle from training frontier models to running complex
+
+01:00:41.780 --> 01:00:46.100
+ inference and reasoning agents at scale.
+
+01:00:46.100 --> 01:00:53.420
+ Trading demands continue to rise with breakthroughs in post-training and like reinforcement learning
+
+01:00:53.420 --> 01:00:57.820
+ and synthetic data generation, but inference is exploding.
+
+01:00:57.820 --> 01:01:02.380
+ Reasoning AI agents require orders of magnitude more compute.
+
+01:01:02.380 --> 01:01:07.820
+ The foundations of our next growth platforms are in place and ready to scale.
+
+01:01:07.820 --> 01:01:13.140
+ Sovereign AI nations are investing in AI infrastructure like they once did for electricity
+
+01:01:13.140 --> 01:01:15.260
+ and Internet.
+
+01:01:15.260 --> 01:01:21.980
+ Enterprise AI, AI must be deployable on-prem and integrated with existing IT.
+
+01:01:21.980 --> 01:01:28.820
+ Our RTX Pro, DGX PARC, and DGX Station Enterprise AI systems are ready to modernize the $500
+
+01:01:28.820 --> 01:01:33.100
+ billion IT infrastructure on-prem or in the cloud.
+
+01:01:33.100 --> 01:01:37.020
+ Every major IT provider is partnering with us.
+
+01:01:37.020 --> 01:01:44.740
+ All AI from training to digital twin simulation to deployment, NVIDIA Omniverse, and ISA Groot
+
+01:01:44.740 --> 01:01:50.860
+ are powering next generation factories and humanoid robotic systems worldwide.
+
+01:01:50.860 --> 01:01:53.260
+ The age of AI is here.
+
+01:01:53.260 --> 01:02:02.440
+ From AI infrastructures, inference at scale, sovereign AI, enterprise AI, and industrial
+
+01:02:02.440 --> 01:02:06.580
+ AI, NVIDIA is ready.
+
+01:02:06.580 --> 01:02:07.860
+ Design is at GTC Paris.
+
+01:02:07.860 --> 01:02:15.660
+ I'll keynote at VivaTech on June 11 talking about quantum GPU computing, robotic factories
+
+01:02:15.660 --> 01:02:21.540
+ and robots, and celebrate our partnerships building AI factories across the region.
+
+01:02:21.540 --> 01:02:26.740
+ The NVIDIA band will tour France, the UK, Germany, and Belgium.
+
+01:02:26.740 --> 01:02:30.580
+ Thank you for joining us at the earnings call today.
+
+01:02:30.580 --> 01:02:31.580
+ See you in Paris.
+
+01:02:31.580 --> 01:02:36.660
+ This concludes today's conference call.
+
+01:02:36.660 --> 01:02:37.660
+ You may now disconnect.
+

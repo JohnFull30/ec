@@ -1,0 +1,16 @@
+**Summary**
+
+Meta Platforms, Inc. (Meta) held an earnings call to discuss its financial results for the first quarter of 2024. The company reported a mixed performance, with revenue beating expectations but profits falling short. Meta's CEO Mark Zuckerberg emphasized the importance of artificial intelligence (AI) in driving growth and innovation across various verticals. He also highlighted the potential for AI-powered chatbots to become personal assistants for users.
+
+**Notable Executive Quotes**
+
+1. "I think that there are going to be a number of different agents that people use, just like people use different apps for different things." - Mark Zuckerberg
+2. "Once an AI starts getting to know you and what you care about and context and can build up memory from the conversations that you've had with it over time, I think that will start to become somewhat more of a differentiator." - Mark Zuckerberg
+3. "I'm not sure if we're going to do exactly that [sell 10 million units], but I think that that's like the ballpark of the opportunity that we have." - Mark Zuckerberg (on Reality Labs)
+4. "We are currently testing business AIs with a limited set of businesses in the U.S. and a few additional countries on WhatsApp, Messenger, and ads on Facebook and Instagram." - Susan Li
+5. "I think maybe the most useful sort of metric I could give you is just that our advertising revenue in the European economic area and Switzerland was 16% of our worldwide total revenue in 2024." - Susan Li (on EU decision)
+6. "We generally saw healthy growth in most verticals in Q1, except for gaming and politics." - Susan Li
+7. "I think some of the effort that we're doing is going to -- we're going to get more efficient in some parts of the work that we do." - Mark Zuckerberg (on Reality Labs)
+8. "We are starting with small business and focusing first on helping them sell their goods and services with business AIs." - Susan Li
+9. "We are also testing business AIs on Facebook and Instagram ads that you can ask about product and return policies or assist you in making a purchase within our in-app browser." - Susan Li
+10. "I think that will start to become somewhat more of a differentiator, having one agent that recalls your history and your preferences." - Mark Zuckerberg

@@ -1,0 +1,15 @@
+{
+ "version": "2.0.0",
+ "tasks": [
+ {
+ "label": "Branch Script",
+ "type": "shell",
+ "command": "./scripts/choose-script.sh",
+ "group": {
+ "kind": "build",
+ "isDefault": true
+ },
+ "problemMatcher": []
+ }
+ ]
+}
