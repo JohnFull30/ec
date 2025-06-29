@@ -1,2 +1,3 @@
 echo "venv311/" >> .gitignore
 venv311/
+venv311/
