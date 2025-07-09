@@ -18,8 +18,9 @@ def check_virtual_env():
         print("⚠️ Not in a virtual environment. Activate one for safety.")
 
 def get_target_files():
+    folder = "to_process"
     return sorted(
-        [f for f in os.listdir('.') if f.endswith('.mp3') or f.endswith('.pdf')],
+        [os.path.join(folder, f) for f in os.listdir(folder) if f.lower().endswith(('.mp3', '.pdf'))],
         key=os.path.getmtime,
         reverse=True
     )
