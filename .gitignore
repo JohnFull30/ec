@@ -1,3 +1,29 @@
 echo "venv311/" >> .gitignore
 venv311/
 venv311/
+# Create/update .gitignore to exclude all generated content
+cat >> .gitignore << 'EOF'
+
+# Generated content - do not track
+summaries/
+*.mp3
+*.mp4
+*.wav
+*_transcript.txt
+*_transcript.vtt
+*_summary.txt
+*_dynamic.mp4
+*_voiceover.mp3
+quotes_*.json
+script_*.txt
+video_*.mp4
+voice_*.mp3
+youtube_script_*.txt
+README_run_summary.pdf
+Readme_Run_Summary.pdf
+readme_run_summary.md
+
+# System files
+.DS_Store
+**/.DS_Store
+EOF
